@@ -1,2 +1,2 @@
 # excursion
-Codecademy project
+Codecademy project for making a simple web lander
